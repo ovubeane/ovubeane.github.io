@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://ovubeane.github.io/EQl/sitemap_index.txt.gz
+Sitemap: https://ovubeane.github.io/WYM/sitemap_index.txt.gz
+Sitemap: https://ovubeane.github.io/pod/sitemap_index.txt.gz
+Sitemap: https://ovubeane.github.io/sitemap/sitemap_index.txt.gz
+Sitemap: https://ovubeane.github.io/tVv/sitemap_index.txt.gz
+Sitemap: https://ovubeane.github.io/wFc/sitemap_index.txt.gz
